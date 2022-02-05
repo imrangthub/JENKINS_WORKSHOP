@@ -3,7 +3,8 @@
 
 =>C:\Program Files\Jenkins>java -jar jenkins.war
 
-Add pluginh Git, GitHub, Deploy to container Plugin, Build Pipeline Plugin and more.
+Add pluginh Git, GitHub, Deploy to container Plugin, 	
+Delivery Pipeline, Build Pipeline Plugin and more.
 
 
 Simple project with Batch command:
